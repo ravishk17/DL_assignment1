@@ -5,6 +5,7 @@ To run the code:
 ```python train.py <arguments>``` 
 
 --> arguments are in the way asked in question
+
 Requirements:
 numpy, pandas, matplotlib, keras, tensorflow, wandb, scikit-learn
 
